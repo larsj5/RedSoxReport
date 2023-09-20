@@ -1,0 +1,19 @@
+Red Sox 2020 Offensive Report:
+
+In this report the stat KOR is used, which stands for K-adjusted
+Offensive Rating. The stat COOP is also used, which stands for Cost
+Of Offense Provided. These stats were created by Lars Jensen.
+
+Team Average K-Rate:	24.4%
+Team Average OPS:	0.756
+Team Average KOR:	632
+Team Average COOP:	1.74
+COOP Rating:		Good
+
+Lowest K-Rate on Team:		Jose Peraza	15.0%
+Highest OPS on Team:		Mitch Moreland	1.176
+Offensive MVP (High KOR):	Mitch Moreland	1067
+
+Players to be traded or cut due to bad COOP (greater than 4.0):
+J.D. Martinez
+Andrew Benintendi
